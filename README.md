@@ -1,136 +1,235 @@
-<h2> Hello, I am Noel Nomgne Foka.</h2>
-<h3> 👨🏻About me</h3>
+<a name="readme-top"></a>
 
- -   I'm  a web developer
- -  Although I am a student, I want to develop my skills in web development, in relational and many other areas.
- - I like to discover new challenges, bring solutions around problems of society
- - Apart from my work, I like the sport of relaxation to always maintain a perfect form. for this I practice gymnastics
-<!-- - :envelope:&nbsp;  I enjoy connecting with people globally. You can reach me via: <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/></a>
- - :smile: visit my <a href="https://frank1738.github.io/portfolio/">Porfolio</a>
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-   
+Modify this file to match your project and remove sections that don't apply.
 
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Fortune+favors+the+brave!)](https://git.io/typing-svg)
-    
+OPTIONAL SECTIONS:
+- FAQ
 
-    
-    
-![](https://komarev.com/ghpvc/?username=frank1738)
-    <img  src="https://img.shields.io/github/followers/frank1738?label=Follow" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/github/stars/frank1738?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
-    
-  </div>
-
-<div>
-    <a href="yhttps://github.com/frank1738/">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="480"/>
-       </a>
-</div>
-
-
-     
-<div>
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank1738&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/ericmahare) 
-  <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=frank1738&show_icons=true&theme=gotham&count_private=true">
-</div>
-
-
-
-
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=frank1738&column=7&theme=onedark" />
-</div>
-<br>
-
- <div id='lojc'>
-
-| tools  | languages | frameworks  | technologies |   
-|---|---|---|---|
-|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="" alt="J" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="" alt="J" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div></div>|   
-  
-  
-  
-
-  
- 
-  
-  
-
-  
-  
-  
-
-
-  
-  
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-<div id="badges"  align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=frank1738&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
-
-</div>
-
-
-
-
-
- 
-<div id="badges"  align="center">
-  <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/>
-  </a>
-
-  <a href="https://twitter.com/frankhiggins08">
-    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter Badge"/>
-  </a>
-</div>
+After you're finished please remove all the comments and instructions!
 -->
 
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <!--<img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>-->
 
+  <h2><b>Noel Nomgne portfolio</b></h2>
 
+</div>
 
+<!-- TABLE OF CONTENTS -->
 
+# 📗 Table of Contents
 
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 My portfolio ](#-my-portfolio-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
+<!-- PROJECT DESCRIPTION -->
 
+# 📖 My portfolio <a name="about-project"></a>
 
+my portfolio is my first microverse project and will be my professional portfolio
 
+## 🛠 Built With <a name="built-with"></a>
 
+### Tech Stack <a name="tech-stack"></a>
 
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
 
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
+<!-- Features -->
 
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- Portfolio
+- About Me
+- Contact
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+<!--## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://google.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-portfolio
+  git clone git@github.com:myaccount/my-portfolio.git
+```
+
+### Install
+
+Install this project with:
+
+```sh
+  cd my-project
+  gem install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  rails server
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 Noel Nomgne Foka
+
+- GitHub: [@githubhandle](https://github.com/noelfoka)
+- Twitter: [@twitterhandle](https://twitter.com/foka19031990)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/no%C3%ABl-nomgne-foka-063013231/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] HTML
+- [ ] CSS
+- [ ] Javascript
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give me a ⭐️
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+<!--## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+-->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
