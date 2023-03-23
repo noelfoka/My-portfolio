@@ -66,8 +66,6 @@ my portfolio is my first microverse project and will be my professional portfoli
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -92,8 +90,6 @@ my portfolio is my first microverse project and will be my professional portfoli
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - Portfolio
 - About Me
@@ -159,8 +155,6 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 Noel Nomgne Foka
 
 - GitHub: [@githubhandle](https://github.com/noelfoka)
@@ -172,8 +166,6 @@ To run tests, run the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] HTML
 - [ ] CSS
