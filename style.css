@@ -6,7 +6,7 @@ header {
   position: absolute;
   top: 0;
   min-height: 75px;
-  padding: 0px 20px;
+  padding: 0 20px;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -15,9 +15,11 @@ header {
   height: 72px;
   left: 0;
 }
+
 .logo {
   width: 60vw;
 }
+
 .logo > #header-img {
   width: 100%;
   height: 100%;
@@ -32,6 +34,7 @@ header {
 nav {
   font-weight: 400;
 }
+
 nav > ul {
   width: 35vw;
   display: flex;
@@ -43,6 +46,7 @@ li {
   list-style: none;
   margin: 15px;
 }
+
 a {
   color: #fff;
   text-decoration: none;
