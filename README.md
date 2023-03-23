@@ -1,11 +1,11 @@
 <h2> Hello, I am Noel Nomgne Foka.</h2>
 <h3> 👨🏻About me</h3>
 
- -  &nbsp; I'm  a web developer
- - 🎓 &nbsp; I am a learner, I want to improve my skills not only in the engineering field but across any other areas.
- - 💼 &nbsp; I love understanding, breaking down complex problems into basic and shareable elements.
- - :soccer:&nbsp;  I love watching football. Not American football :smile:
- - :envelope:&nbsp;  I enjoy connecting with people globally. You can reach me via: <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
+ -   I'm  a web developer
+ -  Although I am a student, I want to develop my skills in web development, in relational and many other areas.
+ - I like to discover new challenges, bring solutions around problems of society
+ - Apart from my work, I like the sport of relaxation to always maintain a perfect form. for this I practice gymnastics
+<!-- - :envelope:&nbsp;  I enjoy connecting with people globally. You can reach me via: <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/></a>
  - :smile: visit my <a href="https://frank1738.github.io/portfolio/">Porfolio</a>
 
@@ -116,7 +116,7 @@
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter Badge"/>
   </a>
 </div>
-
+-->
 
 
 
